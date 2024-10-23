@@ -17,11 +17,13 @@
     "@nftstorage/metaplex-auth": "^1.2.0",
     "@pinata/sdk": "^2.1.0",
     "@solana/web3.js": "^1.95.4",
+    "@types/form-data": "^2.2.1",
     "axios": "^1.7.7",
     "bs58": "^6.0.0",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "form-data": "^4.0.1",
     "nft.storage": "^7.2.0"
   },
   "devDependencies": {
