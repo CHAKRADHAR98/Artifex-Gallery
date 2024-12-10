@@ -51,7 +51,6 @@ export async function uploadMetadata(metadata: any): Promise<string> {
 }
 
 export async function mintNFT(metadataUri: string, name: string): Promise<string> {
-  // This function is a placeholder for actual minting logic
   console.log('Minting NFT with metadata URI:', metadataUri);
   return metadataUri;
 }
